@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="300" viewBox="0 0 960 300" role="img" aria-labelledby="title description">
+  <title id="title">Python installation workflow</title>
+  <desc id="description">Choose the official Python source, install for your operating system, then verify Python and pip in a terminal.</desc>
+  <rect width="960" height="300" rx="20" fill="#f3f7f5"/>
+  <text x="56" y="56" fill="#173b36" font-family="Arial, sans-serif" font-size="23" font-weight="700">Install Python in three steps</text>
+  <g font-family="Arial, sans-serif">
+    <rect x="56" y="96" width="246" height="142" rx="12" fill="#ffffff" stroke="#cbd9d2" stroke-width="2"/>
+    <circle cx="88" cy="130" r="18" fill="#173b36"/>
+    <text x="88" y="136" text-anchor="middle" fill="#ffffff" font-size="16" font-weight="700">1</text>
+    <text x="116" y="136" fill="#173b36" font-size="17" font-weight="700">Choose a source</text>
+    <text x="78" y="176" fill="#50645d" font-size="14">python.org, or your Linux</text>
+    <text x="78" y="198" fill="#50645d" font-size="14">distribution's package manager</text>
+    <path d="M318 167h42m-10-9 10 9-10 9" fill="none" stroke="#66877a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="374" y="96" width="212" height="142" rx="12" fill="#ffffff" stroke="#cbd9d2" stroke-width="2"/>
+    <circle cx="406" cy="130" r="18" fill="#397258"/>
+    <text x="406" y="136" text-anchor="middle" fill="#ffffff" font-size="16" font-weight="700">2</text>
+    <text x="434" y="136" fill="#173b36" font-size="17" font-weight="700">Install Python</text>
+    <text x="396" y="176" fill="#50645d" font-size="14">Follow the steps for</text>
+    <text x="396" y="198" fill="#50645d" font-size="14">Windows, macOS, or Linux</text>
+    <path d="M602 167h42m-10-9 10 9-10 9" fill="none" stroke="#66877a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="658" y="96" width="246" height="142" rx="12" fill="#ffffff" stroke="#cbd9d2" stroke-width="2"/>
+    <circle cx="690" cy="130" r="18" fill="#7c6335"/>
+    <text x="690" y="136" text-anchor="middle" fill="#ffffff" font-size="16" font-weight="700">3</text>
+    <text x="718" y="136" fill="#173b36" font-size="17" font-weight="700">Verify installation</text>
+    <text x="680" y="176" fill="#50645d" font-size="14">Check Python's version</text>
+    <text x="680" y="198" fill="#50645d" font-size="14">and confirm pip is available</text>
+  </g>
+</svg>
